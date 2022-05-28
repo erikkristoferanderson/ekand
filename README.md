@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate by giving free programming lessons on my Twitch stream
 - 🤔 I’m looking for help with improving my YouTube content and growing my online presence
 - 💬 Ask me about how to use Git and GitHub
-- 📫 How to reach me: `@_erikodes_` on Twitter
+- 📫 How to reach me: `@ErikErikodes` on Twitter
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I Played Trombone in College
 <!--
