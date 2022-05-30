@@ -2,6 +2,7 @@
 
 - I'm currently working on [friendlyreminderbot](https://github.com/ykdojo/friendlyreminderbot)
 - You can find me on [YouTube](http://www.youtube.com/channel/UCkWlNrTU1a8t7lKCkqesn9A) and [Twitch](https://www.twitch.tv/erikodes) as erikodes
+- I'm on Twitter as [ErikodesCodes](https://twitter.com/ErikodesCodes)
 - I keep a blog at [blog.erikodes.com](https://blog.erikodes.com)
 - I have some open source projects at [erikodes-community](https://github.com/erikodes-community)
 - 🌱 I’m currently learning how to create music using code
