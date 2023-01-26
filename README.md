@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Erik (aka ekand (aka erikodes))
 
 - I'm currently working on [fixit](https://github.com/erikodes-community/fixit)
-- You can find me on [YouTube as erikodes](http://www.youtube.com/channel/UCkWlNrTU1a8t7lKCkqesn9A) and on [Twitch as erikodes](https://www.twitch.tv/erikodes)
-- I'm on Twitter as [HeyErikodes](https://twitter.com/HeyErikodes)
+- You can find me on [YouTube as erikadrift](http://www.youtube.com/channel/UCkWlNrTU1a8t7lKCkqesn9A) and on [Twitch as erikadrift](https://www.twitch.tv/erikadrift)
+- I'm on Twitter as [erikadrift](https://twitter.com/erikadrift)
 - I keep a blog at [blog.erikodes.com](https://blog.erikodes.com)
 - I have some open source projects at [erikodes-community](https://github.com/erikodes-community)
 - 🌱 I’m currently learning how to create music using code
