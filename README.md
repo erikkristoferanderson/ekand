@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Erik (aka ekand (aka erikadrift))
 
-- I'm currently working on [Syfty](https://github.com/syfty)
+- I'm currently working on [Syfty](https://github.com/ekand/syfty)
 - You can find me on [YouTube as Erik Anderson](http://www.youtube.com/channel/UCkWlNrTU1a8t7lKCkqesn9A) and on [Twitch as erikadrift](https://www.twitch.tv/erikadrift)
 - I'm on Twitter as [erikadrift](https://twitter.com/erikadrift)
 - I keep a blog at [blog.erikodes.com](https://blog.erikodes.com)
