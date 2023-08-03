@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Erik K ANDerson
 
 - I'm the new community manager for [The Byte Bunch](https://github.com/thebytebunch)
-- I'm currently working on [Syfty](https://github.com/ekand/syfty)
+- I'm currently working on [bot0](https://github.com/TheByteBunch/bot0)
 - You can find me on [YouTube](http://www.youtube.com/channel/UCkWlNrTU1a8t7lKCkqesn9A) and on [Twitch](https://www.twitch.tv/erik_k_anderson)
 - I'm on Dev.to as [ekand](https://dev.to/ekand)
 - I keep a blog at [blog.ekand.io](https://blog.ekand.io)
