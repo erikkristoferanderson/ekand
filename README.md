@@ -1,7 +1,8 @@
-### Hi there 👋 I'm Erik (aka ekand (aka erikadrift))
+### Hi there 👋 I'm Erik K ANDerson
 
+- I'm the new community manager for [The Byte Bunch](https://github.com/thebytebunch).
 - I'm currently working on [Syfty](https://github.com/ekand/syfty)
-- You can find me on [YouTube](http://www.youtube.com/channel/UCkWlNrTU1a8t7lKCkqesn9A) and on [Twitch as erikadrift](https://www.twitch.tv/erikadrift)
+- You can find me on [YouTube](http://www.youtube.com/channel/UCkWlNrTU1a8t7lKCkqesn9A) and on [Twitch](https://www.twitch.tv/erik_k_anderson)
 - I'm on Twitter as [erik_k_anderson](https://twitter.com/erik_k_anderson)
 - I keep a blog at [blog.erikodes.com](https://blog.erikodes.com)
 - I have some open source projects at [erikodes-community](https://github.com/erikodes-community)
