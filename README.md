@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate by giving free programming lessons on my Twitch stream
 - 🤔 I’m looking for help with improving my YouTube content
 - 💬 Ask me about how to use Git and GitHub
-- 📫 How to reach me: erik [at] ekand [dot] io
+- 📫 How to reach me: erik [at] 19bit [dot] net
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I Played Trombone in College
 <!--
