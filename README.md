@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Erik K ANDerson
 
 - I'm the new community manager for [The Byte Bunch](https://github.com/thebytebunch)
-- I'm currently working on [bot2](https://github.com/thebytebunch/bot2)
+- I'm currently working on [Code Spark](https://github.com/thebytebunch/code-spark)
 - You can find me on [YouTube](https://www.youtube.com/channel/UCkWlNrTU1a8t7lKCkqesn9A) and on [Twitch](https://www.twitch.tv/erik_k_anderson)
 - I'm on Dev.to as [ekand](https://dev.to/ekand)
 - I keep a blog at [blog.ekand.io](https://blog.ekand.io)
