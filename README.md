@@ -1,17 +1,10 @@
-### Hi there 👋 I'm Erik K ANDerson
+### Hi there 👋 I'm [E]rik [K]ristofer [And]erson 
 
-- I'm the new community manager for [The Byte Bunch](https://github.com/thebytebunch)
-- I'm currently working on [Code Spark](https://github.com/thebytebunch/code-spark)
-- You can find me on [YouTube](https://www.youtube.com/channel/UCkWlNrTU1a8t7lKCkqesn9A) and on [Twitch](https://www.twitch.tv/erik_k_anderson)
-- I'm on Dev.to as [ekand](https://dev.to/ekand)
-- I keep a blog at [blog.ekand.io](https://blog.ekand.io)
-- 🌱 I’m currently learning how to create music using code
-- 👯 I’m looking to collaborate by giving free programming lessons on my Twitch stream
-- 🤔 I’m looking for help with improving my YouTube content
-- 💬 Ask me about how to use Git and GitHub
-- 📫 How to reach me: erik [at] 19bit [dot] net
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I Played Trombone in College
+- I make videos on YouTube under the name [Code With Erik](https://youtube.com/@codewitherik).
+- You can find me on `dev.to` as [ekand](https://dev.to/ekand).
+- I'm currently working on a Python program to improve my sleep hygeine.
+
 <!--
+- ⚡ Fun fact: I Played Trombone in College
 **ekand/ekand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
